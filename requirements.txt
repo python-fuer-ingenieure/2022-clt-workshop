@@ -1,0 +1,9 @@
+sympy
+numpy
+scipy
+ipython
+matplotlib
+ipywidgets
+pandas
+ipydex
+symbtools
